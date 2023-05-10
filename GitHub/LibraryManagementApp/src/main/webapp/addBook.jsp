@@ -53,7 +53,6 @@
                     <label for="exampleInputPassword1" class="form-label">Book Qty.</label>
                     <input type="text" class="form-control" id="exampleInputPassword1" name="bcount">
                 </div>
-
                 <button type="submit" class="btn btn-primary">Add Book</button>
             </form>
         </div>
