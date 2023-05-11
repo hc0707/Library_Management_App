@@ -71,7 +71,7 @@
 	        <td><a href='${updateLink}'>UPDATE</a>
 										|
 				<a href="${deleteLink}"
-				onclick="if(!(confirm('Are you sure u want to delete this customer?')))return false;">
+				onclick="if(!(confirm('Are you sure u want to delete this book?')))return false;">
 				DELETE</a></td>
 	      </tr>
 	      </c:forEach>
